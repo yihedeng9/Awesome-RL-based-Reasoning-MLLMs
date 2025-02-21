@@ -18,14 +18,23 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Papers
 * [2501] [Kimi k1.5] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/pdf/2501.12599) (MoonshotAI) [Project🌐](https://github.com/MoonshotAI/Kimi-k1.5)
+  
 * [2501] [Mulberry] [Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search] (THU) [Model 🤗](https://huggingface.co/HuanjinYao/Mulberry_llava_8b) [Code 💻](https://github.com/HJYao00/Mulberry)
+  
 * [2501] [Text-to-image COT] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) (CUHK) [Project🌐](https://github.com/ZiyuGuo99/Image-Generation-CoT) [Model 🤗](https://huggingface.co/ZiyuG/Image-Generation-CoT)  [Code 💻](https://github.com/ZiyuGuo99/Image-Generation-CoT)
+  
 * [2501] [LlamaV-o1] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/pdf/2501.06186) (MBZUAI) [Project🌐](https://mbzuai-oryx.github.io/LlamaV-o1/) [Model 🤗](https://huggingface.co/omkarthawakar/LlamaV-o1)  [Code 💻](https://github.com/mbzuai-oryx/LlamaV-o1)
+
+* [2411] [InternVL2.5-MPO] [InternVL2.5-MPO: Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization
+](https://arxiv.org/abs/2411.10442) (Shanghai AI Laboratory) [Project🌐](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/) [Model 🤗](https://huggingface.co/OpenGVLab/InternVL2-8B-MPO) [Code 💻](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo)
+
 * [2411] [LLaVA-CoT] [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440v4) (PKU) [Project🌐](https://github.com/PKU-YuanGroup/LLaVA-CoT) [Model 🤗](https://huggingface.co/Xkev/Llama-3.2V-11B-cot) [Demo🤗](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot) [Code 💻](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 
 
 ## Open-Source Project
 
 * [Multimodal Open R1 💻](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  ![Multimodal Open R1](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal)
+  
 * [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V)
+  
 * [VLM-R1 💻](https://github.com/om-ai-lab/VLM-R1)  ![VLM-R1](https://img.shields.io/github/stars/om-ai-lab/VLM-R1) [Demo 🤗](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)
