@@ -35,6 +35,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [Multimodal Open R1 💻](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  ![Multimodal Open R1](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal)
   
-* [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V)
+* [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Blog 🎯](https://deepagent.notion.site/rlvr-in-vlms)
   
 * [VLM-R1 💻](https://github.com/om-ai-lab/VLM-R1)  ![VLM-R1](https://img.shields.io/github/stars/om-ai-lab/VLM-R1) [Demo 🤗](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)
