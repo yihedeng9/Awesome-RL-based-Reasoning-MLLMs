@@ -31,7 +31,7 @@ This repository provides valuable reference for researchers in the field of mult
 * [2411] [LLaVA-CoT] [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440v4) (PKU) [Project🌐](https://github.com/PKU-YuanGroup/LLaVA-CoT) [Model 🤗](https://huggingface.co/Xkev/Llama-3.2V-11B-cot) [Demo🤗](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot) [Code 💻](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 
 
-## Open-Source Project
+## Open-Source Projects
 
 * [Multimodal Open R1 💻](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  ![Multimodal Open R1](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal)
   
