@@ -35,7 +35,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [Multimodal Open R1 💻](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  ![Multimodal Open R1](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal) [Model 🤗](https://huggingface.co/lmms-lab/Qwen2-VL-2B-GRPO-8k) [Dataset 🤗](https://huggingface.co/datasets/lmms-lab/multimodal-open-r1-8k-verified)
   
-* [lmm-r1 💻](https://github.com/TideDra/lmm-r1) ![lmm-r1](https://img.shields.io/github/stars/TideDra/lmm-r1) [Code 💻](https://github.com/TideDra/lmm-r1)
+* [LMM-R1 💻](https://github.com/TideDra/lmm-r1) ![LMM-R1](https://img.shields.io/github/stars/TideDra/lmm-r1) [Code 💻](https://github.com/TideDra/lmm-r1)
 
 * [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Blog 🎯](https://deepagent.notion.site/rlvr-in-vlms) [Datasets 🤗](https://huggingface.co/collections/MMInstruction/r1-v-67aae24fa56af9d2e2755f82)
   
