@@ -22,7 +22,7 @@ This repository provides valuable reference for researchers in the field of mult
   
 * [2501] [Mulberry] [Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://arxiv.org/pdf/2412.18319) (THU) [Model 🤗](https://huggingface.co/HuanjinYao/Mulberry_llava_8b) [Code 💻](https://github.com/HJYao00/Mulberry)
 
-* [2501] [Virgo] [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904v2) (RUC) [Project 🌐](https://github.com/RUCAIBox/Virgo) [Model 🤗](https://huggingface.co/RUC-AIBOX/Virgo-72B) [Code 💻](https://github.com/RUCAIBox/Virgo)
+* [2501] [Virgo] [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904v2) (RUC) [Model 🤗](https://huggingface.co/RUC-AIBOX/Virgo-72B) [Code 💻](https://github.com/RUCAIBox/Virgo)
   
 * [2501] [Text-to-image COT] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) (CUHK) [Project 🌐](https://github.com/ZiyuGuo99/Image-Generation-CoT) [Model 🤗](https://huggingface.co/ZiyuG/Image-Generation-CoT)  [Code 💻](https://github.com/ZiyuGuo99/Image-Generation-CoT)
   
