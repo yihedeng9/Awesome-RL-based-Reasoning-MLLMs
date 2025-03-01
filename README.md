@@ -55,7 +55,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [R1-Vision 💻](https://github.com/yuyq96/R1-Vision) ![R1-Vision](https://img.shields.io/github/stars/yuyq96/R1-Vision) [Cold-Start Datasets 🤗](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83)
 
-* [R1-Onevision 💻](https://github.com/Fancy-MLLM/R1-Onevision)  ![R1-Onevision](https://img.shields.io/github/stars/Fancy-MLLM/R1-Onevision) [Model 🤗](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B)  [Dataset 🤗](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision) [Reasoning Bench 🤗](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision-Bench) [Demo 🤗](https://huggingface.co/spaces/Fancy-MLLM/R1-Onevision) [Report 📝](https://yangyi-vai.notion.site/r1-onevision)
+* [R1-Onevision 💻](https://github.com/Fancy-MLLM/R1-Onevision)  ![R1-Onevision](https://img.shields.io/github/stars/Fancy-MLLM/R1-Onevision) [Model 🤗](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B)  [Dataset 🤗](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision) [Demo 🤗](https://huggingface.co/spaces/Fancy-MLLM/R1-Onevision) [Report 📝](https://yangyi-vai.notion.site/r1-onevision)
 
 * [Open R1 Video 💻](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![Open R1 Video](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video) [Models 🤗](https://huggingface.co/Xiaodong/Open-R1-Video-7B)  [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k) [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 
