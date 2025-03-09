@@ -18,6 +18,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Papers📄
 
+* [2503] [MM-Eureka] [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA/blob/main/MM_Eureka_paper.pdf) (Shanghai AI Laboratory) [Models 🤗] [MM-Eureka-8B](https://huggingface.co/FanqingM/MM-Eureka-8B) [MM-Eureka-Zero-38B](https://huggingface.co/FanqingM/MM-Eureka-Zero-38B) [Dataset 🤗](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset) [Code 💻](https://github.com/ModalMinds/MM-EUREKA)
+
 * [2503] [Visual-RFT] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/pdf/2503.01785) (SJTU) [Project 🌐](https://github.com/Liuziyu77/Visual-RFT) [Datasets 🤗](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df) [Code 💻](https://github.com/Liuziyu77/Visual-RFT)
 
 * [2502] [MedVLM-R1] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/pdf/2502.19634) (TUM)
