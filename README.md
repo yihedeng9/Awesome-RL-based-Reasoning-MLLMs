@@ -18,6 +18,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Papers📄
 
+* [2503] [Vision-R1] [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/pdf/2503.06749) (ECNU) [Code 💻](https://github.com/Osilly/Vision-R1)
+
 * [2503] [Seg-Zero] [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/pdf/2503.06520) (CUHK) [Model 🤗](https://huggingface.co/Ricky06662/Seg-Zero-7B) [Dataset 🤗](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840) [Code 💻](https://github.com/dvlab-research/Seg-Zero)
 
 * [2503] [MM-Eureka] [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA/blob/main/MM_Eureka_paper.pdf) (Shanghai AI Laboratory) [Models 🤗](https://huggingface.co/FanqingM) [Dataset 🤗](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset) [Code 💻](https://github.com/ModalMinds/MM-EUREKA)
