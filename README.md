@@ -18,7 +18,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Papers📄
 
-* [2503] [VisualThinker-R1-Zero] [R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132) (TurningPoint AI, UCLA) [Blog 🎯](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model) [Code 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
+* [2503] [VisualThinker-R1-Zero] [R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132) (UCLA) [Code 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
 
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379) (Alibaba) [Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B) [Code 💻](https://github.com/HumanMLLM/R1-Omni)
 
