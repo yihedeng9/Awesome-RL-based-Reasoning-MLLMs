@@ -18,6 +18,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Papers📄
 
+* [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379) (Alibaba) [Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B) [Code 💻](https://github.com/HumanMLLM/R1-Omni)
+
 * [2503] [Vision-R1] [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/pdf/2503.06749) (ECNU) [Code 💻](https://github.com/Osilly/Vision-R1)
 
 * [2503] [Seg-Zero] [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/pdf/2503.06520) (CUHK) [Model 🤗](https://huggingface.co/Ricky06662/Seg-Zero-7B) [Dataset 🤗](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840) [Code 💻](https://github.com/dvlab-research/Seg-Zero)
