@@ -60,6 +60,8 @@ This repository provides valuable reference for researchers in the field of mult
   
 * [LMM-R1 💻](https://github.com/TideDra/lmm-r1) ![LMM-R1](https://img.shields.io/github/stars/TideDra/lmm-r1) [Code 💻](https://github.com/TideDra/lmm-r1)
 
+* [R1-Multimodal-Journey 💻](https://github.com/FanqingM/R1-Multimodal-Journey) ![R1-Multimodal-Journey](https://img.shields.io/github/stars/FanqingM/R1-Multimodal-Journey) (Latest progress at [MM-Eureka](https://github.com/ModalMinds/MM-EUREKA))
+
 * [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Blog 🎯](https://deepagent.notion.site/rlvr-in-vlms) [Datasets 🤗](https://huggingface.co/collections/MMInstruction/r1-v-67aae24fa56af9d2e2755f82)
   
 * [VLM-R1 💻](https://github.com/om-ai-lab/VLM-R1)  ![VLM-R1](https://img.shields.io/github/stars/om-ai-lab/VLM-R1) [Model 🤗](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps)  [Dataset 🤗](https://huggingface.co/datasets/omlab/VLM-R1) [Demo 🤗](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)
