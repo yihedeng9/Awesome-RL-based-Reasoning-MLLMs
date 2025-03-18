@@ -30,6 +30,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [Seg-Zero] [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/pdf/2503.06520) (CUHK) [Model 🤗](https://huggingface.co/Ricky06662/Seg-Zero-7B) [Dataset 🤗](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840) [Code 💻](https://github.com/dvlab-research/Seg-Zero)
 
+* [2503] [Audio-Reasoner] [Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models](https://arxiv.org/pdf/2503.02318) (NTU) [Project 🌐](https://xzf-thu.github.io/Audio-Reasoner/) [Model 🤗](https://huggingface.co/zhifeixie/Audio-Reasoner) [Code 💻](https://github.com/xzf-thu/Audio-Reasoner)
+
 * [2503] [MM-Eureka] [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA/blob/main/MM_Eureka_paper.pdf) (Shanghai AI Laboratory) [Models 🤗](https://huggingface.co/FanqingM) [Dataset 🤗](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset) [Code 💻](https://github.com/ModalMinds/MM-EUREKA)
 
 * [2503] [Visual-RFT] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/pdf/2503.01785) (SJTU) [Project 🌐](https://github.com/Liuziyu77/Visual-RFT) [Datasets 🤗](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df) [Code 💻](https://github.com/Liuziyu77/Visual-RFT)
