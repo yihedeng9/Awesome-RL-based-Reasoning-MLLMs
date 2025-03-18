@@ -20,6 +20,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [Skywork R1V] [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) (Skywork AI) [Model 🤗](https://huggingface.co/Skywork/Skywork-R1V-38B) [Code 💻](https://github.com/SkyworkAI/Skywork-R1V)
 
+* [2503] [R1-AQA] [Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering](https://arxiv.org/pdf/2503.11197v2) (Xiaomi) [Model 🤗](https://huggingface.co/mispeech/r1-aqa) [Code 💻](https://github.com/xiaomi-research/r1-aqa)
+
 * [2503] [LMM-R1] [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/pdf/2503.07536) (SEU) [Code 💻](https://github.com/TideDra/lmm-r1)
 
 * [2503] [VisualThinker-R1-Zero] [R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132) (UCLA) [Code 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
