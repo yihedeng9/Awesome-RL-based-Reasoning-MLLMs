@@ -95,6 +95,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [Video-R1 💻](https://github.com/tulerfeng/Video-R1) ![Video-R1](https://img.shields.io/github/stars/tulerfeng/Video-R1) [Code 💻](https://github.com/tulerfeng/Video-R1)
  [Dataset 🤗](https://huggingface.co/datasets/Video-R1/DVD-counting)
 
+* [Open-LLaVA-Video-R1 💻](https://github.com/Hui-design/Open-LLaVA-Video-R1) ![Open-LLaVA-Video-R1](https://img.shields.io/github/stars/Hui-design/Open-LLaVA-Video-R1) [Code 💻](https://github.com/Hui-design/Open-LLaVA-Video-R1)
+
 * [MetaSpatial 💻](https://github.com/PzySeere/MetaSpatial) ![MetaSpatial](https://img.shields.io/github/stars/PzySeere/MetaSpatial) [Code 💻](https://github.com/PzySeere/MetaSpatial)
  [Dataset 🤗](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning) (3D Spatial Reasoning)
 
