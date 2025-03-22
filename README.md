@@ -18,8 +18,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Papers📄
 
-* [2503] [DeepMesh] [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning](https://arxiv.org/pdf/2503.15265) (THU) [Project 🌐](https://zhaorw02.github.io/DeepMesh/) [Model 🤗](https://huggingface.co/zzzrw/DeepMesh) [Code 💻](https://github.com/zhaorw02/DeepMesh)
-
 * [2503] [R1-VL] [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/pdf/2503.12937) (NTU) [Model 🤗](https://huggingface.co/jingyiZ00) [Code 💻](https://github.com/jingyi0000/R1-VL)
 
 * [2503] [TimeZero] [TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM](https://arxiv.org/abs/2503.13377) (RUC) [Model 🤗](https://huggingface.co/wwwyyy/TimeZero-Charades-7B) [Code 💻](https://github.com/www-Ye/TimeZero)
