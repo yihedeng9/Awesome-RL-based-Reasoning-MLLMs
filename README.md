@@ -73,7 +73,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Open-Source Projects🌐
 
-* [Temporal-R1 💻](https://github.com/appletea233/Temporal-R1)  ![Temporal-R1](https://img.shields.io/github/stars/hiyouga/Temporal-R1) (Envolving Temporal Reasoning into LMMs via Temporal Consistent Reward.)
+* [Temporal-R1 💻](https://github.com/appletea233/Temporal-R1)  ![Temporal-R1](https://img.shields.io/github/stars/appletea233/Temporal-R1) (Envolving Temporal Reasoning into LMMs via Temporal Consistent Reward.)
 
 * [EasyR1 💻](https://github.com/hiyouga/EasyR1)  ![EasyR1](https://img.shields.io/github/stars/hiyouga/EasyR1) (An Efficient, Scalable, Multi-Modality RL Training Framework)
 
